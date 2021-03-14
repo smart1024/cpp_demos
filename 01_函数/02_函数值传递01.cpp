@@ -10,7 +10,7 @@ int prime(int m)
 	return 1;
 }
 
-int main()
+int main02()
 {
 	int m;
 	cout << "请输入一个正整数:";

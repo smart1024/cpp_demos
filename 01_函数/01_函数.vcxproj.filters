@@ -21,5 +21,8 @@
     <ClCompile Include="02_函数值传递01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03_按引用传递.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
