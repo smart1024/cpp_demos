@@ -12,7 +12,7 @@ void swap(float &x,float &y)
     cout << "swap()交换后:x=" << x << "\ty=" << y << '\n'; //输出xy交换前的值
 }
 
-int main() 
+int main03() 
 {
     float a = 40,b = 70;
     cout << "main()函数调用前a=" << a << "\tb=" << b << '\n'; //输出a和b的值
