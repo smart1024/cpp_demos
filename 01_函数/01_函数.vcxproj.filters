@@ -27,5 +27,8 @@
     <ClCompile Include="04_引用使函数返回多个值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05_1到n的k次方求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -16,7 +16,7 @@ void calc(double r,double&area,double&c)
 传引用调用就像一个人的大名和小名，形变实即变。
 因为引用传递，它们占用的相同存储空间。
 */
-int main()
+int main04()
 {
 	double r = 0, area = 0, c = 0;
 	
