@@ -11,6 +11,11 @@ void calc(double r,double&area,double&c)
 	c = 2 * p * r;
 }
 
+/*
+传值调用就像复印，形变实不变。
+传引用调用就像一个人的大名和小名，形变实即变。
+因为引用传递，它们占用的相同存储空间。
+*/
 int main()
 {
 	double r = 0, area = 0, c = 0;
