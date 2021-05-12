@@ -21,7 +21,7 @@ int sump(int k,int n)  //求和1^k到n^k之和
 	return sum;
 }
 
-int main()
+int main_05()
 {
 	int k = 4, n = 10;
 	cout << "1到" << n << "的" << k << "次幂之和为: " << sump(4, 10) << endl;

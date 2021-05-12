@@ -30,5 +30,8 @@
     <ClCompile Include="05_1到n的k次方求和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="06_求π的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
