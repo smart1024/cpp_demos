@@ -20,7 +20,7 @@ int fun_fab(int n)
 	return z;
 }
 
-int main()
+int main_08()
 {
 	cout << "斐波那契额数列的第20项为：" << fun_fab(20) << endl;
 	return 0;
