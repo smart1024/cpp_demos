@@ -19,7 +19,7 @@ double sum(int n)
 	return z;
 }
 
-int main() 
+int main_06() 
 {
 	int i = 1000;
 	double k = 0;
