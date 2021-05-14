@@ -5,7 +5,7 @@ int max(int,int);
 double max(double,double);
 int max(int, int, int);
 
-int main()
+int main_09()
 {
 	int i = 5, j = 9, k = 10, p = 0;
 	double m = 33.4, n = 8.9, q = 0;
