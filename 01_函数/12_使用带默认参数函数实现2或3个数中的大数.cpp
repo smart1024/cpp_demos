@@ -10,6 +10,7 @@ int main12()
 	cin >> i >> j >> k;
 	cout << i << "和" << j << "中的大数为：" << max12(i, j) << endl;
 	cout << i << "和" << j <<"和"<< k <<"中的大数为：" << max12(i, j,k) << endl;
+	return 0;
 }
 
 int max12(int x,int y,int z) 

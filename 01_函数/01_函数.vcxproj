@@ -159,6 +159,7 @@
     <ClCompile Include="10_求矩形梯形和圆形的面积.cpp" />
     <ClCompile Include="11_使用带默认值的函数输出三维坐标.cpp" />
     <ClCompile Include="12_使用带默认参数函数实现2或3个数中的大数.cpp" />
+    <ClCompile Include="13_静态变量的使用.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
