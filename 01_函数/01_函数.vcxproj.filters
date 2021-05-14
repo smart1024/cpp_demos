@@ -45,5 +45,8 @@
     <ClCompile Include="10_求矩形梯形和圆形的面积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11_使用带默认值的函数输出三维坐标.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
