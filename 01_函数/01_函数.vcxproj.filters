@@ -54,5 +54,8 @@
     <ClCompile Include="13_静态变量的使用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14_求1的阶乘到100阶乘之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
