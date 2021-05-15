@@ -163,6 +163,7 @@
     <ClCompile Include="14_求1的阶乘到100阶乘之和.cpp" />
     <ClCompile Include="15_外部函数.cpp" />
     <ClCompile Include="15_外部函数1.cpp" />
+    <ClCompile Include="16_使用内联函数求10个数中的最大数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

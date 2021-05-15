@@ -6,7 +6,7 @@ using namespace std;
 
 使用外部变量和外部函数完成求一个数的阶乘
 */
-int main()
+int main15()
 {	
 	//声明外部函数处
 	extern int f15(int i);
