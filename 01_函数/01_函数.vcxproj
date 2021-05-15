@@ -161,6 +161,8 @@
     <ClCompile Include="12_使用带默认参数函数实现2或3个数中的大数.cpp" />
     <ClCompile Include="13_静态变量的使用.cpp" />
     <ClCompile Include="14_求1的阶乘到100阶乘之和.cpp" />
+    <ClCompile Include="15_外部函数.cpp" />
+    <ClCompile Include="15_外部函数1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
