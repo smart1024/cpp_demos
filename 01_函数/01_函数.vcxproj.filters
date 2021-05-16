@@ -69,5 +69,8 @@
     <ClCompile Include="17_带参数的宏定义.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="18_条件编译的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

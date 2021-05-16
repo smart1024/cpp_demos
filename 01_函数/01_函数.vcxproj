@@ -165,6 +165,7 @@
     <ClCompile Include="15_外部函数1.cpp" />
     <ClCompile Include="16_使用内联函数求10个数中的最大数.cpp" />
     <ClCompile Include="17_带参数的宏定义.cpp" />
+    <ClCompile Include="18_条件编译的使用.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
