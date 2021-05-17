@@ -72,5 +72,8 @@
     <ClCompile Include="18_条件编译的使用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="19_求两个数的最大公约数和最小公倍数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

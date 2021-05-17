@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() 
+int main18() 
 {
 #ifdef PI
 	cout << "PI=" << PI << endl;
