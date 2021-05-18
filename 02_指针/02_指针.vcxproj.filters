@@ -21,5 +21,8 @@
     <ClCompile Include="02_通过指针变量访问整型变量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03_打印指针变量地址.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

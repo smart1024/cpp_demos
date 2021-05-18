@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void main()
+void main02()
 {
 
 	int a = 1, b = 2;
