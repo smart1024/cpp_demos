@@ -151,6 +151,7 @@
     <ClCompile Include="02_通过指针变量访问整型变量.cpp" />
     <ClCompile Include="03_打印指针变量地址.cpp" />
     <ClCompile Include="04_指针变量自身的运算.cpp" />
+    <ClCompile Include="05_使用数组的指针访问数组元素.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -27,5 +27,8 @@
     <ClCompile Include="04_指针变量自身的运算.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05_使用数组的指针访问数组元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
