@@ -19,4 +19,8 @@ void main05()
 		cout << "*p="<< *p << endl;
 	}
 
+	for (i=0; i < 10; i++)
+	{
+		cout << "*p=" << *(array+i) << endl;
+	}
 }
