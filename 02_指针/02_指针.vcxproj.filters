@@ -30,5 +30,8 @@
     <ClCompile Include="05_使用数组的指针访问数组元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="06_使用数组指针访问二维数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
