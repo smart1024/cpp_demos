@@ -39,5 +39,8 @@
     <ClCompile Include="08_指向指针的指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="09_指向函数的指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
