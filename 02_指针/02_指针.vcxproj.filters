@@ -36,5 +36,8 @@
     <ClCompile Include="07_字符串复制函数功能实现.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="08_指向指针的指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
