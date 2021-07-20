@@ -156,6 +156,7 @@
     <ClCompile Include="07_字符串复制函数功能实现.cpp" />
     <ClCompile Include="08_指向指针的指针.cpp" />
     <ClCompile Include="09_指向函数的指针.cpp" />
+    <ClCompile Include="10_返回指针的函数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
