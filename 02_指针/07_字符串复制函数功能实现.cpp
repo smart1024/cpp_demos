@@ -12,12 +12,26 @@ void copyStr(char* str1, char* str2)
 	*str1 = '\0';
 }
 
+/*
+使用while循环实现字符串复制功能
+*/
+void copyStr1(char* str1,char* str2) {
+	while (*str2 != '\0') {
+		*str1++ = *str2++;
+	}
+	*str1 = '\0';
+}
+
+
 void main_07()
 {
 	int c[3] = {1,10,100};
 	char a[10];
 	char b[4] = "abc";
-	copyStr(a,b);
+
+	//copyStr(a,b);
+
+	copyStr1(a,b);
 	//打印字符数组
 	cout << "a====" << a << endl; //a====abc 可见打印字符数组输出的不是地址，而是字符串
 
