@@ -12,7 +12,7 @@ void copyStr(char* str1, char* str2)
 	*str1 = '\0';
 }
 
-void main07()
+void main_07()
 {
 	int c[3] = {1,10,100};
 	char a[10];
