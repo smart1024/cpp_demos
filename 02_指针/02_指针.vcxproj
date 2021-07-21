@@ -157,6 +157,7 @@
     <ClCompile Include="08_指向指针的指针.cpp" />
     <ClCompile Include="09_指向函数的指针.cpp" />
     <ClCompile Include="10_返回指针的函数.cpp" />
+    <ClCompile Include="11_返回指针的函数和数组指针.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

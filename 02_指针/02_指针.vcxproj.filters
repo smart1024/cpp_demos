@@ -45,5 +45,8 @@
     <ClCompile Include="10_返回指针的函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11_返回指针的函数和数组指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
