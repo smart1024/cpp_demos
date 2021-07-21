@@ -160,6 +160,7 @@
     <ClCompile Include="11_返回指针的函数和数组指针.cpp" />
     <ClCompile Include="12_求一位数组的最大值.cpp" />
     <ClCompile Include="13_const指针的应用.cpp" />
+    <ClCompile Include="14_找出最长的字符串.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
